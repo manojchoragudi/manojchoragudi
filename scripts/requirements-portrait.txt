@@ -1,5 +1,0 @@
-pillow
-numpy
-opencv-python-headless
-# optional, removes the photo background (downloads a model on first run):
-# rembg
