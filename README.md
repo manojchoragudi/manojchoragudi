@@ -8,3 +8,8 @@ I'm a Data Engineer with around 4 years of experience designing and building clo
 <img src="./Big data engineer.png" alt="Data Engineer - Azure Databricks PySpark" width="100%">
 
 </div>
+
+## Links
+
+- Portfolio: [manojkumarchoragudi-portfolio.floot.app](https://manojkumarchoragudi-portfolio.floot.app)
+- LinkedIn: [Manoj Kumar Choragudi](https://www.linkedin.com/in/manoj-kumar-choragudi-407b4b169)
